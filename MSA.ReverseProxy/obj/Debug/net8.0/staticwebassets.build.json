@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7QHT4Q1QxZRzcRQU8rPvHGNLkvA9OsAFn+IxU68ZAUk=",
+  "Source": "MSA.ReverseProxy",
+  "BasePath": "_content/MSA.ReverseProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

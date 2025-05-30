@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7S0fXCeVpY=",
+  "success": true,
+  "projectFilePath": "/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/duongnt/.nuget/packages/microsoft.extensions.configuration/9.0.5/microsoft.extensions.configuration.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.5/microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.configuration.binder/9.0.5/microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.5/microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.primitives/9.0.5/microsoft.extensions.primitives.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

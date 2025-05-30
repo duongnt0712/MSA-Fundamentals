@@ -1,0 +1,10 @@
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.csproj.AssemblyReference.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.AssemblyInfoInputs.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.AssemblyInfo.cs
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.csproj.CoreCompileInputs.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.RazorAssemblyInfo.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.RazorAssemblyInfo.cs
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.IdentityServer/obj/Debug/net8.0/MSA.IdentityServer.sourcelink.json

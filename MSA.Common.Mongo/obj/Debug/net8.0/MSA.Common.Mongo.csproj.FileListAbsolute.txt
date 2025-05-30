@@ -1,0 +1,16 @@
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/bin/Debug/net8.0/MSA.Common.Mongo.deps.json
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/bin/Debug/net8.0/MSA.Common.Mongo.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/bin/Debug/net8.0/MSA.Common.Mongo.pdb
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/bin/Debug/net8.0/MSA.Common.Contracts.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/bin/Debug/net8.0/MSA.Common.Contracts.pdb
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.csproj.AssemblyReference.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.AssemblyInfoInputs.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.AssemblyInfo.cs
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.csproj.CoreCompileInputs.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.sourcelink.json
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Comm.6EFABD65.Up2Date
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/refint/MSA.Common.Mongo.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/MSA.Common.Mongo.pdb
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Mongo/obj/Debug/net8.0/ref/MSA.Common.Mongo.dll

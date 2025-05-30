@@ -1,0 +1,16 @@
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Security.deps.json
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Security.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Security.pdb
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Contracts.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Contracts.pdb
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.csproj.AssemblyReference.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.AssemblyInfoInputs.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.AssemblyInfo.cs
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.csproj.CoreCompileInputs.cache
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.sourcelink.json
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Comm.F723219D.Up2Date
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/refint/MSA.Common.Security.dll
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.pdb
+/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/obj/Debug/net8.0/ref/MSA.Common.Security.dll

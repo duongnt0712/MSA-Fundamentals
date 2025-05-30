@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7AewAjdnnY=",
+  "success": true,
+  "projectFilePath": "/mnt/e/Github-Repositories/Training-Courses/MSA-Fundamentals/MSA.Common.Security/MSA.Common.Security.csproj",
+  "expectedPackageFiles": [
+    "/home/duongnt/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.5/microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.configuration/9.0.5/microsoft.extensions.configuration.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.5/microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.configuration.binder/9.0.5/microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.5/microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.extensions.primitives/9.0.5/microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.1.2/microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "/home/duongnt/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
